@@ -13,13 +13,9 @@ body {
     /* border: 2px solid red; */
     position: absolute;
     left: 60px;
-    top: 20px;
+    top: 30px;
 }
 
-.left img {
-    width: 136px;
-    filter: invert(100%);
-}
 
 .left div {
     line-height: 19px;
